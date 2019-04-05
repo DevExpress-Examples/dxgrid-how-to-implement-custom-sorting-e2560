@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/Implement Custom Sorting/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Implement Custom Sorting/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/Implement Custom Sorting/MainPage.xaml) (VB: [MainPage.xaml](./VB/Implement Custom Sorting/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/Implement Custom Sorting/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Implement Custom Sorting/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXGrid - How to Implement Custom Sorting
